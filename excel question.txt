@@ -1,0 +1,21 @@
+1.what is the mean age of the applicants?
+2.what is the average score(grade)?it is
+  the same for graduates and undergraduates?
+3.what is the median height for females applicants?
+4.what is the range of age for all the applicants?
+5.Is the average newspaper Readership is 
+  more for females as compared to males in 
+  US?
+6.Is the average of students studying politics
+  is more than students studying mathematics?
+7.How much is the difference between the average
+  marks(actual marks column) for the students
+  who read the newspaper for 7 times/week vs the
+  ones who read the newspaper for 3 times/week?
+8.what is the average height of the students 
+  who got more than 2000 as actual marks?
+9.Are there more number of undergraduates than graduates
+  in economics as a major?
+10.the student who got the highest actual 
+   marks is from which country?
+
